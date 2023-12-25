@@ -1,0 +1,6 @@
+com.project.fd
+com.project.fd.controllers
+com.project.fd.controllers.request
+com.project.fd.entities
+com.project.fd.repos
+com.project.fd.services
